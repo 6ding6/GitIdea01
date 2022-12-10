@@ -1,7 +1,7 @@
 package com.atguigu.git;
 
 /**
- * @author 解丁杰
+ * @author 解
  * @version 1.0
  */
 public class GitTest {
